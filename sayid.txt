@@ -1,0 +1,3 @@
+nama : sayyid
+nim : 0110221202
+cita-cita : front end dev
